@@ -1,0 +1,7 @@
+.header__nav {
+  display: flex;
+  justify-content: space-between;
+  outline: red 1px solid;
+  list-style-type: none;
+  color: #fff;
+}

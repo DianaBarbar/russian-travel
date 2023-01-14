@@ -1,0 +1,11 @@
+.lead__title {
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 100px;
+  text-align: center;
+  outline: 1px solid red;
+  width: 720px;
+  height: 200px;
+  margin: 0 auto;
+}
