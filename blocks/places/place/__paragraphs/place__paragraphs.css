@@ -1,0 +1,8 @@
+.place__paragraphs {
+  display: flex;
+  flex-direction: column;
+  width: 484px;
+  height: 374px;
+  margin-top: 48px;
+  outline: 1px solid red;
+}
