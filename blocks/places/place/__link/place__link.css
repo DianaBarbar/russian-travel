@@ -6,5 +6,9 @@
   color: white;
   text-decoration: underline;
   margin-top: 12px;
-  outline: 1px solid red;
+  transition: opacity .3s ease-in;
+}
+
+.place__link:hover {
+  opacity: .5;
 }
