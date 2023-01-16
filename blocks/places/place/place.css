@@ -1,8 +1,24 @@
 .place {
-  display: flex;
-  justify-content: space-between;
-  gap: 40px;
-  width: 984px;
-  height: 660px;
+  display: grid;
+  grid-template-areas: 
+  "title website"
+  "image paragraphs";
+  column-gap: 40px;
   outline: 1px solid red;
+}
+
+.place__title {
+  grid-area: title;
+}
+
+.place__website {
+  grid-area: website;
+}
+
+.place__image {
+  grid-area: image;
+}
+
+.place__paragraphs {
+  grid-area: paragraphs;
 }
