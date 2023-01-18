@@ -8,3 +8,9 @@
   height: 200px;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead__title {
+    margin: 0 103px;
+  }
+}

@@ -1,19 +1,2 @@
 .cover {
-  text-decoration: none;
-  background: url('/images/cover-trains.jpg');
-  background-size: cover;
-  position: relative;
-  width: 1184px;
-  height: 740px;
-  margin: 92px 48px;
 }
-
-.cover::after {
-  content: "";
-  position: absolute;
-  background: rgba(0, 0, 0, 0.5);
-  width: 100%;
-  top: 0;
-  bottom: 0;
-  left: 0;
- }

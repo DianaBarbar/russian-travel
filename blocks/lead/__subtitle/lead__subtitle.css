@@ -8,3 +8,9 @@
   height: 72px;
   margin: 32px auto 64px;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead__subtitle {
+    margin: 25px 142px 56px;
+  }
+}
