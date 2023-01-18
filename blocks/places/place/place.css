@@ -6,18 +6,9 @@
   column-gap: 40px;
 }
 
-.place__title {
-  grid-area: title;
-}
-
-.place__website {
-  grid-area: website;
-}
-
-.place__image {
-  grid-area: image;
-}
-
-.place__paragraphs {
-  grid-area: paragraphs;
+@media screen and (max-width: 1024px) {
+  .place {
+    grid-template-columns: minmax(440px, 1fr);
+    column-gap: 32px;
+  }
 }

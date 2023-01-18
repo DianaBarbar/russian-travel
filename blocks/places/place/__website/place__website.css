@@ -4,4 +4,5 @@
   width: 456px;
   height: 46px;
   margin: auto 0 48px 0;
+  grid-area: website;
 }

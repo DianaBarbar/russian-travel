@@ -14,3 +14,9 @@
     margin: 0 103px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .lead__title {
+    margin: 0 23px 0;
+  }
+}
