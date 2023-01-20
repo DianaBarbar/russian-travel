@@ -4,6 +4,7 @@
   line-height: calc(28/24*100%);
   font-size: 24px;
   color: white;
+  text-decoration: none;
   transition: opacity .3s ease-in;
 }
 
