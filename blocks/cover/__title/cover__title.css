@@ -10,3 +10,9 @@
   position: relative;
   margin-bottom: 32px;
 }
+
+@media screen and (max-width: 768px) {
+  .cover__title {
+    margin-bottom: 32px;
+  }
+}
