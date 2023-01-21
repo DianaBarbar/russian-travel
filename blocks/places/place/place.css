@@ -23,11 +23,12 @@
 
 @media screen and (max-width: 320px)  {
   .place {
-    row-gap: 50px;
+    grid-template-columns: 320px;
     grid-template-areas: 
     "title"
     "website"
     "image"
     "paragraphs";
+    row-gap: 32px;
   }
 }

@@ -4,3 +4,10 @@
   grid-area: paragraphs;
   width: 100%;
 }
+
+@media screen and (max-width: 320px)  {
+  .place__paragraphs {
+    margin: 0 0 0 16px;
+    max-width: 288px;
+  }
+}
