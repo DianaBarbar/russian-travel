@@ -1,12 +1,12 @@
 .footer {
   max-width: 1184px;
-  margin: 92px 48px 24px;
+  margin: 93px 48px 24px;
 }
 
 @media screen and (max-width: 1024px) {
   .footer {
     max-width: 928px;
-    margin: 96px 48px 24px;
+    margin: 98px 48px 24px;
   }
 }
 
@@ -14,5 +14,12 @@
   .footer {
     max-width: 720px;
     margin: 0 0 0 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer {
+    max-width: 186px;
+    margin: 64px auto 24px 16px;
   }
 }
