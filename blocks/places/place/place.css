@@ -36,13 +36,13 @@
 
 @media screen and (max-width: 600px) {
   .place {
-    grid-template-columns: 396px 1fr;
+    grid-template-columns: 376px 1fr;
     grid-template-areas: 
     "title"
     "website"
     "image"
     "paragraphs";
-    row-gap: 32px;
+    row-gap: 26px;
   }
 }
 
