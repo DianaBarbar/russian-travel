@@ -8,11 +8,18 @@ color: #FFFFFF;
 position: relative;
 }
 
+@media screen and (max-width: 500px)  {
+  .cover__subtitle {
+    max-width: 346px;
+    font-size: 16px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .cover__subtitle {
     font-size: 14px;
     line-height: calc(16 / 14 * 100%);
-    max-width: 272px;
+    max-width: 262px;
     margin: 0 auto;
   }
 }

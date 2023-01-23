@@ -17,6 +17,21 @@
   }
 }
 
+@media screen and (max-width: 670px) {
+  .footer {
+    max-width: 660px;
+    margin: 0 10px 10px;
+  }
+}
+
+
+@media screen and (max-width: 500px) {
+  .footer {
+    max-width: 320px;
+    margin: 0 auto 0 16px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .footer {
     max-width: 186px;
