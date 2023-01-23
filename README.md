@@ -9,5 +9,5 @@
 * Позиционирование
 * Использование псевдоклассов :hover и ::before
 ###
-* [Ссылка на работу] (https://dianabarbar.github.io/russian-travel/html)
+* [Ссылка на работу] (https://dianabarbar.github.io/russian-travel/index.html)
 
