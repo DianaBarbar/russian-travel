@@ -32,7 +32,7 @@
 
 @media screen and (max-width: 548px) {
   .lead__title {
-    font-size: 50px;
+    font-size: 40px;
     max-width: 400px;
     line-height: 50px;
     
@@ -42,8 +42,7 @@
 @media screen and (max-width: 348px) {
   .lead__title {
     margin: 0 auto;
-    max-width: 288px;
-    font-size: 40px;
+    max-width: 288px; 
     line-height: 44px;
   }
 }

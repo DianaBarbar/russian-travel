@@ -30,23 +30,12 @@
 
 @media screen and (max-width: 600px) {
   .place {
+    grid-template-columns: 1fr;
     grid-template-areas:
     "title"
     "website"
     "image"
     "paragraphs";
-    row-gap: 26px;
-  }
-}
-
-@media screen and (max-width: 320px)  {
-  .place {
-    grid-template-columns: 320px;
-    grid-template-areas:
-        "title"
-        "website"
-        "image"
-        "paragraphs";
     margin-bottom: 54px;
     row-gap: 32px;
   }
