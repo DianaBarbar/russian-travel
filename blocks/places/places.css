@@ -20,14 +20,8 @@
   .places {
     margin: 0 auto;
     margin-left: 23px;
-    gap: 73px;
-  }
-}
-
-@media screen and (max-width: 660px) {
-  .places {
-    margin-left: 14px;
-    max-width: 655px;
+    max-width: 720px;
+    gap: 72px;
   }
 }
 
