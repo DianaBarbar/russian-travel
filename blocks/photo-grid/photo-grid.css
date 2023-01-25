@@ -29,14 +29,13 @@
 @media screen and (max-width: 649px) {
   .photo-grid {
     max-width: 600px;
-    margin: 68px 24px;
+    margin: 64px 16px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .photo-grid {
-    max-width: 320px;
-    margin: 64px 16px;
+    max-width: 320px; 
     gap: 12px;
   }
 }
